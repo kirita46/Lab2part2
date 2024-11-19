@@ -1,0 +1,14 @@
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/bin/Debug/net8.0/LAb2
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/bin/Debug/net8.0/LAb2.deps.json
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/bin/Debug/net8.0/LAb2.runtimeconfig.json
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/bin/Debug/net8.0/LAb2.dll
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/bin/Debug/net8.0/LAb2.pdb
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/LAb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/LAb2.AssemblyInfoInputs.cache
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/LAb2.AssemblyInfo.cs
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/LAb2.csproj.CoreCompileInputs.cache
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/LAb2.dll
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/refint/LAb2.dll
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/LAb2.pdb
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/LAb2.genruntimeconfig.cache
+/Users/dmitrijstarcenko/RiderProjects/LAb2/LAb2/obj/Debug/net8.0/ref/LAb2.dll
